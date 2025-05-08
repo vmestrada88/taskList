@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>🛫 Task List</h1>
+      <h1> ♠Task List♠</h1>
       <div className="input-group">
         <input
           type="text"
